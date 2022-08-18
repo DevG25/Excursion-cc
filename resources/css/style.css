@@ -33,3 +33,7 @@ div.copyrightContainer {
 p.copyright {
   color: gray;
 }
+
+div.imgContainer {
+  margin-bottom: 2rem;
+}
